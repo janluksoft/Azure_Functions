@@ -1,3 +1,5 @@
+> Return to <a href="https://github.com/janluksoft/Contents_test#idAzure"><b>menu</b></a>.
+
 # Azure Function: Scheduled Email Sender
 
 This project demonstrates how to send scheduled emails from an **Azure Function**. Every 5 minutes, the function sends a test HTML email using SMTP.
