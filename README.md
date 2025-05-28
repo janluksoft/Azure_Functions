@@ -147,7 +147,7 @@ Each email contains:
 * An HTML body with the current timestamp.
 * A subject (default: `"Test NET"`).
 
-Below is a viewofthe mailbox with received emails. The Azure Function 
+Below is a view of the mailbox with received emails. The Azure Function 
 mechanism can therefore be used to send periodic notifications to email.
 
 <img src="jpg/Azure_Functions3_mail_test.png"/>
